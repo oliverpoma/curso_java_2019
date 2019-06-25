@@ -11,7 +11,7 @@ public class Dado2 {
 		}
 		
 		for(int i=0;i<cont1.length;i++) {
-			System.out.println("El porcenteje de "+(i+1)+" es "+cont1[i]/500.0+"%");
+			System.out.println("El porcentaje de "+(i+1)+" es "+cont1[i]/500.0+"%");
 		}
 	}
 }
